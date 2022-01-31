@@ -1,3 +1,17 @@
-body {
-  margin: 10%;
+
+
+.content{
+max-width: 500px;
+margin: auto;
+padding: 10px;
+text-align: center;
+background-color: gray;
+}
+button {
+    border:  none;
+    height: 40px;
+    width: 100px;
+    cursor: pointer;
+    opacity: 0.8;
+    background-color: white;
 }
